@@ -1,0 +1,29 @@
+.informacion{
+  margin-top: 5%;
+  border: 1px solid grey;
+  padding: 7%;
+}
+
+.img-perfil{
+  border: 1px solid grey;
+  border-radius: 100%;
+}
+
+.activo {
+  height: 10px;
+  width: 10px;
+  background-color: #6DDEF8;
+  border-radius: 100%;
+}
+
+.info-contacto {
+  margin-top: 20%;
+}
+
+.icon-next {
+  margin-top: 10%;
+}
+
+.contacto-item {
+  margin-top: 5%;
+}
